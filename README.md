@@ -6,7 +6,9 @@ Relatórios de automação de testes com eclipse, selenide, testeng e allure
   Sempre lembrar de adicionar todas as depedências no pom.xml, quando do uso do selenide são:
   
   a.selenide;
+  <br>
   b.testeng;
+  <br>
   c.allure.
   
 2 - GERANDO O RELATÓRIO
