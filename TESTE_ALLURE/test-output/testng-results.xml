@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-14T12:27:07 BRT" name="Default suite" finished-at="2022-01-14T12:27:24 BRT" duration-ms="17129">
+    <groups>
+    </groups>
+    <test started-at="2022-01-14T12:27:07 BRT" name="Default test" finished-at="2022-01-14T12:27:24 BRT" duration-ms="17129">
+      <class name="P_relatorios.TESTE_ALLURE.TesteAllure">
+        <test-method is-config="true" signature="Start()[pri:0, instance:P_relatorios.TESTE_ALLURE.TesteAllure@1a6d8329]" started-at="2022-01-14T12:27:07 BRT" name="Start" finished-at="2022-01-14T12:27:07 BRT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="Acessar()[pri:1, instance:P_relatorios.TESTE_ALLURE.TesteAllure@1a6d8329]" started-at="2022-01-14T12:27:07 BRT" name="Acessar" finished-at="2022-01-14T12:27:14 BRT" duration-ms="6541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acessar -->
+        <test-method signature="search()[pri:2, instance:P_relatorios.TESTE_ALLURE.TesteAllure@1a6d8329]" started-at="2022-01-14T12:27:14 BRT" name="search" finished-at="2022-01-14T12:27:17 BRT" duration-ms="3209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="click()[pri:3, instance:P_relatorios.TESTE_ALLURE.TesteAllure@1a6d8329]" started-at="2022-01-14T12:27:17 BRT" name="click" finished-at="2022-01-14T12:27:24 BRT" duration-ms="7287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+      </class> <!-- P_relatorios.TESTE_ALLURE.TesteAllure -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
