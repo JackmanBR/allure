@@ -15,6 +15,10 @@ Relatórios de automação de testes com eclipse, selenide, testeng e allure
   
   allure serve <caminho da pasta de relatórios do allure dentro do projeto>
   
+3- IMPORTANTE:
+
+Sempre lembrar de dar uma "refresh" na pasta de relatórios do allure após cada teste. O reocmendado é após cada caso de testes, você apagar os arquivos contidos dentro e logo após, rodar os testes e depois dar um "refresh" no projeto, servirá para que ao rodar o comando "allure serve", o allure carregue o relatório do projeto atual.
+  
 
 
   
